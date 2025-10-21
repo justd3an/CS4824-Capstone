@@ -5,7 +5,7 @@ A web-based music recommendation system that uses the K-Nearest Neighbors (KNN) 
 
 ### Prerequisites
 
-- Python 3.11 recommended (3.9, 3.10 also work)
+- Python 3.12.3 recommended
 - pip (Python package manager)
 
 ### Installation
