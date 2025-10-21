@@ -14,11 +14,11 @@ A web-based music recommendation system that uses the K-Nearest Neighbors (KNN) 
    ```bash
    # On macOS/Linux (recommended)
    # Ensure Python 3.12.3 is installed
-   python3.11 -m venv .venv-capsone
-   source .venv-music/bin/activate
+   python3.11 -m venv .venv-capstone
+   source .venv-capstone/bin/activate
    
    # On Windows
-   # py -3.11 -m venv .venv-music
+   # py -3.11 -m venv .venv-capstone
    # .venv-music\Scripts\activate
    ```
 
