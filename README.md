@@ -14,10 +14,10 @@ This project explores the effects of L1 and L2 regularization on learning the dy
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ````bash
    git clone https://github.com/<your-username>/cs4824-capstone.git
    cd cs4824-capstone
-   ```
+   ````
 
 2. Create and activate a virtual environment:
    ````bash
