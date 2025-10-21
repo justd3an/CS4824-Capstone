@@ -60,6 +60,6 @@ This project explores the effects of L1 and L2 regularization on learning the dy
 Justin Dean  
 CS 4824 Capstone Project — Virginia Tech  
 Fall 2025
-
+```
 
 
