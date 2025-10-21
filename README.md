@@ -20,7 +20,7 @@ This project explores the effects of L1 and L2 regularization on learning the dy
    ```
 
 2. Create and activate a virtual environment:
-   ```bash
+   ````bash
    # On macOS/Linux
    python3.12 -m venv .venv-capstone
    source .venv-capstone/bin/activate
@@ -28,17 +28,17 @@ This project explores the effects of L1 and L2 regularization on learning the dy
    # On Windows
    # py -3.12 -m venv .venv-capstone
    # .venv-capstone\Scripts\activate
-   ```
+   ````
 
 3. Install dependencies:
-   ```bash
+   ````bash
    pip install -r requirements.txt
-   ```
+   ````
 
 4. Launch Jupyter Notebook:
-   ```bash
+   ````bash
    jupyter notebook
-   ```
+   ````
    Then open and run:
    ```
    lynx_hare_ude.ipynb
